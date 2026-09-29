@@ -54,11 +54,98 @@ The study assessed both **clinical symptom change and user experience**. High en
 - Participants demonstrated **high engagement** with Therabot during the intervention period.
 - Participants reported favorable **usability and satisfaction** with the intervention.
 - **Therapeutic alliance** with Therabot was reported at levels comparable to those observed in some human therapist–patient relationships.
+- 
+### Clinical Interpretation
 
-### Overall Observation
+The results suggest that participants **did improve during the study period**, with greater symptom reduction in the Therabot group than in the waitlist control group.
 
-The trial provides evidence of **short-term symptom improvement and high user acceptability** of Therabot compared with a waitlist control.
+However, statistical evidence of improvement does not by itself answer whether Therabot can provide **safe, sustained, adaptive clinical care over time**.
 
-However, the findings demonstrate efficacy relative to **no intervention**, rather than superiority or equivalence to established mental-health treatments.
+This raises several questions for future AI evaluation.
 
-- **Secondary outcomes:** User engagement, acceptability, usability, satisfaction, and therapeutic alliance.
+### Research Questions Generated
+
+**1. Can AI detect a treatment plateau?**
+
+If symptoms initially improve but then plateau after 4, 8, or more weeks, can Therabot detect this change in trajectory and adapt its intervention rather than continuing to provide the same type of support?
+
+**2. When should AI escalate care?**
+
+If a patient's symptoms stop improving or begin deteriorating, should the AI adapt its intervention autonomously, or should this trigger assessment by a mental-health professional?
+
+A clinically safe system may require predefined **escalation thresholds and human-in-the-loop pathways** rather than relying entirely on autonomous AI decision-making.
+
+**3. Are symptom scales sufficient for longitudinal monitoring?**
+
+PHQ-9, GAD-Q-IV, and WCS provide structured measures of specific symptom domains, but they may not capture the full clinical state of a patient.
+
+Longitudinal AI evaluation may therefore need to consider:
+
+- symptom trajectory
+- functioning
+- behavior changes
+- adherence and engagement
+- contextual stressors
+- emergence of risk
+- clinically significant life events
+
+Could **multimodal systems incorporating voice or other signals** provide additional information for monitoring?
+
+Such approaches would require particularly strong evidence regarding **validity, privacy, bias, consent, and regulatory oversight** before clinical use.
+### Safety and Failure Modes
+
+Generative AI introduces risks that extend beyond those usually evaluated in conventional digital interventions.
+
+Potential failure modes include:
+
+- **Hallucinated or inaccurate information**
+- Excessive emotional validation that may reinforce maladaptive beliefs
+- Failure to recognize clinical deterioration
+- Inadequate recognition of suicidal or crisis-related content
+- Inappropriate therapeutic responses
+- Privacy and confidentiality risks
+
+AI evaluation should therefore assess not only **whether the system works when it performs appropriately**, but also **how it behaves when it fails**.
+
+
+### Clinical Role of Generative AI
+
+The evidence does not support viewing Therabot as a replacement for mental health professionals.
+
+A potential clinical model is **AI-supported care**, where AI provides accessible and frequent support while defined clinical escalation pathways remain available when risk or deterioration is detected.
+
+
+## 6. Original Clinical Insight — Phasic Adaptive AI
+
+Current mental-health AI evaluation often focuses on whether an intervention reduces symptoms over a defined study period.
+
+A clinically mature AI system may instead need to recognize changing phases of a patient's longitudinal trajectory:
+
+**Resilience → Early symptoms → Active treatment → Improvement → Plateau → Deterioration → Crisis → Recovery**
+
+The AI could potentially adapt its role according to the patient's changing clinical state while triggering appropriate human escalation when required.
+
+This is a **proposed framework for future research and was not evaluated in the Therabot trial.**
+
+
+## 7. Implementation Considerations
+
+Before clinical deployment, further evaluation would be required regarding:
+
+- **Safety and clinical oversight**
+- **Human escalation pathways**
+- **Privacy and data governance**
+- **Cultural adaptation**
+- **Healthcare-system integration**
+- **Regulatory requirements**
+- **Medico-legal responsibility**
+- **Accessibility and affordability**
+- **Long-term engagement**
+
+
+
+## 8. Overall Clinical Assessment
+
+Therabot provides **promising early evidence of short-term clinical benefit and acceptability** in the studied population.
+
+However, the evidence is limited by the **waitlist comparator, short follow-up, restricted study population, and unanswered questions regarding long-term safety, comparative effectiveness, and real-world implementation**.
