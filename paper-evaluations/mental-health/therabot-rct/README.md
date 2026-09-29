@@ -35,12 +35,9 @@ The global burden and prevalence of Mental health disorders is rising steeply an
 - **Usability** — Ease of use and user experience
 - **Satisfaction** — Participant satisfaction with the intervention
 - **Therapeutic alliance** — Perceived quality of the therapeutic relationship, measured using the **WAI-SR**
+.
 
-### Clinical Evaluation Consideration
-
-The study assessed both **clinical symptom change and user experience**. High engagement, satisfaction, and therapeutic alliance indicate acceptability and perceived usefulness but do not independently establish clinical efficacy. Clinical benefit should therefore be evaluated primarily through changes in validated clinical outcome measures.
-
-## 4. Key Findings
+## 3. Key Findings
 
 ### Clinical Outcomes
 
@@ -115,7 +112,7 @@ The evidence does not support viewing Therabot as a replacement for mental healt
 A potential clinical model is **AI-supported care**, where AI provides accessible and frequent support while defined clinical escalation pathways remain available when risk or deterioration is detected.
 
 
-## 6. Original Clinical Insight — Phasic Adaptive AI
+## 4. Original Clinical Insight — Phasic Adaptive AI
 
 Current mental-health AI evaluation often focuses on whether an intervention reduces symptoms over a defined study period.
 
@@ -128,7 +125,7 @@ The AI could potentially adapt its role according to the patient's changing clin
 This is a **proposed framework for future research and was not evaluated in the Therabot trial.**
 
 
-## 7. Implementation Considerations
+## 5. Implementation Considerations
 
 Before clinical deployment, further evaluation would be required regarding:
 
@@ -144,7 +141,7 @@ Before clinical deployment, further evaluation would be required regarding:
 
 
 
-## 8. Overall Clinical Assessment
+## 6. Overall Clinical Assessment
 
 Therabot provides **promising early evidence of short-term clinical benefit and acceptability** in the studied population.
 
